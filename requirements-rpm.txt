@@ -407,8 +407,8 @@ python-meld3-0.6.7-1.el6
 python-migrate-0.7.2-4.el6
 python-netaddr-0.7.5-4.el6
 python-netifaces-0.5-1.el6
-python-neutron
-python-neutronclient
+python-neutron-2013.2-1.05.215m1
+python-neutronclient-2.3.0-11.05.215m1
 python-nose-cover3
 python-nova-2013.2-1.05.215m1
 python-novaclient
